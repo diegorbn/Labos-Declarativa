@@ -5,7 +5,7 @@ import java.awt.Dimension;
 
 public final class WindowConfig {
     public static final String TITLE = "Calculadora con Prolog";
-    public static final Dimension SIZE = new Dimension(460, 390);
+    public static final Dimension SIZE = new Dimension(540, 460);
 
     private WindowConfig() {
     }
